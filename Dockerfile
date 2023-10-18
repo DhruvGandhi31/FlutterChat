@@ -21,3 +21,6 @@ ENV PATH "$PATH:/home/user/flutter/bin"
 RUN flutter channel dev
 RUN flutter upgrade
 RUN flutter doctor
+
+RUN git clone https://github.com/DhruvGandhi31/FlutterChat.git
+RUN cd chat_app && flutter test
