@@ -7,7 +7,7 @@
   </a>
  
   <li>
-      <a href="#Demo">View Screenshots</a>
+      <a href="#Screenshots">View Screenshots</a>
       </li>
     
 
@@ -73,8 +73,8 @@ This app is a community app where all people can chat with each other.
 
 
 ## Screenshots
-## Screenshots
-<img src="https://github.com/DhruvGandhi31/FlutterChat/raw/main/assets/96539582/0ca5459c-20f9-43e7-a0f6-bd1f06c3c2b8.png" width="300px">
-<img src="https://github.com/DhruvGandhi31/FlutterChat/raw/main/assets/96539582/7d2bd3a8-ec9f-4473-ab99-274740f4abf0.png" width="300px">
-<img src="https://github.com/DhruvGandhi31/FlutterChat/raw/main/assets/96539582/060904a3-8318-4546-9608-f16dd67888e8.png" width="300px">
-<img src="https://github.com/DhruvGandhi31/FlutterChat/raw/main/assets/96539582/b1063dc0-3086-4831-b3f6-c047376c44f4.png" width="300px">
+
+<img src="outputs/img1.jpg" width="300px">
+<img src="outputs/img2.jpg" width="300px">
+<img src="outputs/img3.jpg" width="300px">
+<img src="outputs/img4.jpg" width="300px">
