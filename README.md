@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DhruvGandhi31/FlutterChat">
-    <img src="![chat](https://github.com/DhruvGandhi31/FlutterChat/assets/96539582/d3fa410c-9de1-403e-8326-4eb319caa23b)
+    <img src="![chat](assets/images/chat.png)
 " alt="Logo" width="300" height="300">
   </a>
  
